@@ -1,7 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome my Portfolio site
+ 
+  The main purpose for this site is to help showcase my talents and abilities as a developer/programmer. The 
+platform provided by gitHub is ideal for enabling developers to not only share and showcase their abilities but 
+to gain insight from other developers. I've found it to be a great help in learning. 
 
-You can use the [editor on GitHub](https://github.com/Claytonwally/my-best-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  I should take a moment and express I'm no expert in any of the technologies or programming languages that I've chosen to
+learn or demonstrate on these pages or in any repository on Git. In fact I started all this as a hobby , build a website, just to see if I could do it.  
 
+ 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
